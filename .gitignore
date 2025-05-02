@@ -1,0 +1,37 @@
+# Arquivos de ambiente e credenciais
+.env
+criacao/.env
+criacao/publicos_personalizados/.env
+
+# Ambiente virtual
+.venv/
+
+# Arquivos de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de distribuição
+dist/
+build/
+*.egg-info/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Arquivos específicos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos específicos do IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Arquivos de sessão Streamlit
+.streamlit/

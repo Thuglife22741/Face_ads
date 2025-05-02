@@ -1,0 +1,28 @@
+{
+    "facebook_pages": {
+        "data": [
+            {
+                "id": "350095368191456",
+                "name": "Borges M Digitais"
+            },
+            {
+                "id": "352964494564606",
+                "name": "Mr.Cavalheiros"
+            }
+        ],
+        "paging": {
+            "cursors": {
+                "before": "QVFIUlJ1U3lMb3l4R29KN2NITVFieWJFdlVramVFcVpwV2dJcUI1NDQtaXRHalNlMm5CbVUwLXpIeWtLOXRxVHRSYjllZA25Ienc1Y3JHVjBPelpEUERIeEFB",
+                "after": "QVFIUi0yQ1V4MTlYR2ZAtb1dDbjU3bVBoYWZAUM1A1M0RibWM4QkFqNlZAKSTI2MWg1VXQ1MzBJLUk3dXRrTzQtOGhWUGl5TkM0ZAjZAqM2owOXdIaVY3Ry1OTTZAB"
+            }
+        }
+    },
+    "instagram_accounts": {
+        "data": [
+            {
+                "id": "26691052890494197",
+                "username": "mrcavalheiros"
+            }
+        ]
+    }
+}

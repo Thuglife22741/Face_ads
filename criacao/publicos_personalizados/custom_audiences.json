@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "120211834891730305",
+            "name": "Semelhante (BR, 1% to 3%) - Personalizado 75% VV"
+        },
+        {
+            "id": "120211834891710305",
+            "name": "Semelhante (BR, 3% to 5%) - Personalizado 75% VV"
+        },
+        {
+            "id": "120211834891690305",
+            "name": "Semelhante (BR, 5% to 7%) - Personalizado 75% VV"
+        },
+        {
+            "id": "120211834891680305",
+            "name": "Semelhante (BR, 7% to 10%) - Personalizado 75% VV"
+        },
+        {
+            "id": "120211834891380305",
+            "name": "Semelhante (BR, 1%) - Personalizado 75% VV"
+        },
+        {
+            "id": "120211834888020305",
+            "name": "Personalizado 75% VV"
+        }
+    ],
+    "paging": {
+        "cursors": {
+            "before": "QVFIUlJCdHcwTnJ0X0RsT0JQMXdnd2ZA1YWxPdXRIOC1kRlNualhUbTM5LVpxQUNsZAm5tUk1JR3NpYVBnR0pnWGZAtdEZAwQnV6ZAEpWYmZAybm5MU2YyM0IyQ3l3",
+            "after": "QVFIUlpxMmg0SUtFbDZAVTldZAMDFnSE53dE55VXp6ZA3M0OHotX2xKcmFtSXVkSnRibTNDck43Y1VvaDFwSjktd0FVQ2FlZAHFPUzhqc3BPUVR6SjhVd25LMlBR"
+        }
+    }
+}
