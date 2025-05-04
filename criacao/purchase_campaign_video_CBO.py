@@ -173,6 +173,7 @@ def create_ad_creative(account_id, video_id, image_hash, ad_number):
         AdCreative.Field.body: read_file(copy_file_path),
         AdCreative.Field.object_story_spec: {
             'page_id': read_file(facebook_file_path),
+            'instagram_user_id': read_file(instagram_file_path),
             'video_data': {
                 'call_to_action': {
                     'type': 'LEARN_MORE',
